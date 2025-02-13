@@ -4,17 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ex1
+namespace ex2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
+            Console.WriteLine("есть");
 
-            int a = 5;
-            int b = 12;
-            Console.WriteLine(a + b);
+
         }
     }
 }
